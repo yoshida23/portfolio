@@ -25,3 +25,7 @@ within a line`です。
 ```cs
 string a="これはC#(cs)初期のブロック";
 ```
+
+## リンク
+
+[unityroom 吉田光希](https://unityroom.com/users/t8vnzrsw0ud432kaebqx)
