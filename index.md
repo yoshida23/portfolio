@@ -34,7 +34,7 @@
 作品概要
 
 - 開発環境：
-- 開発期間：
+- 開発期間：約一か月
 
 ### 作品名2
 [<img src="images/game2.png" alt="作品名2" style="height: 360px">]()
